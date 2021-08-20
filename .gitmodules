@@ -1,0 +1,6 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:NyaaBot/docs.git
+[submodule "common"]
+	path = common
+	url = git@github.com:NyaaBot/common.git
