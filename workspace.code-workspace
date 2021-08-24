@@ -5,6 +5,18 @@
 		},
 		{
 			"path": "common"
+		},
+		{
+			"path": "adapter/adapter-mirai"
+		},
+		{
+			"path": "adapter/adapter-rocket-chat"
+		},
+		{
+			"path": "processor/processor-dice"
+		},
+		{
+			"path": "processor/processor-forward"
 		}
 	],
 	"settings": {}
