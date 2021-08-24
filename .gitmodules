@@ -4,3 +4,15 @@
 [submodule "common"]
 	path = common
 	url = git@github.com:NyaaBot/common.git
+[submodule "adapter/adapter-mirai"]
+	path = adapter/adapter-mirai
+	url = git@github.com:NyaaBot/adapter-mirai.git
+[submodule "adapter/adapter-rocket-chat"]
+	path = adapter/adapter-rocket-chat
+	url = git@github.com:NyaaBot/adapter-rocket-chat.git
+[submodule "processor/processor-forward"]
+	path = processor/processor-forward
+	url = git@github.com:NyaaBot/processor-forward.git
+[submodule "processor/processor-dice"]
+	path = processor/processor-dice
+	url = git@github.com:NyaaBot/processor-dice.git
