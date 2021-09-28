@@ -19,5 +19,7 @@
 			"path": "processor/processor-forward"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
 }
