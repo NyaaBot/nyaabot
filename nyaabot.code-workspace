@@ -21,5 +21,15 @@
 	],
 	"settings": {
 		"java.configuration.updateBuildConfiguration": "automatic"
+	},
+	"extensions": {
+		"recommendations": [
+			"hediet.vscode-drawio",
+			"vscjava.vscode-java-pack",
+			"eamodio.gitlens",
+			"richardwillis.vscode-gradle-extension-pack",
+			"gabrielbb.vscode-lombok",
+			"sonarsource.sonarlint-vscode"
+		]
 	}
 }
