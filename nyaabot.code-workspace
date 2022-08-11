@@ -20,7 +20,16 @@
 		}
 	],
 	"settings": {
-		"java.configuration.updateBuildConfiguration": "automatic"
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"database-client.complectionTriggerKey": [
+			" ",
+			",",
+			".",
+			">",
+			"<",
+			"=",
+			"("
+		]
 	},
 	"extensions": {
 		"recommendations": [
@@ -28,8 +37,8 @@
 			"vscjava.vscode-java-pack",
 			"eamodio.gitlens",
 			"richardwillis.vscode-gradle-extension-pack",
-			"gabrielbb.vscode-lombok",
-			"sonarsource.sonarlint-vscode"
+			"sonarsource.sonarlint-vscode",
+			"redhat.java"
 		]
 	}
 }
